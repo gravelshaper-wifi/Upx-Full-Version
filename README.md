@@ -230,4 +230,4 @@ This repository serves as the official landing page for UPX. The software is dis
 **Get the most recent version of UPX today!**
 
 ---
-**Last updated:** 2026-09-18 14:51:25 UTC
+**Last updated:** 2026-09-18 18:10:54 UTC
